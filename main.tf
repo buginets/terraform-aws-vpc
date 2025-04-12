@@ -24,6 +24,7 @@ resource "aws_subnet" "main2" {
   }
 }
 
+
 variable vpc_cidr {
   
 }
